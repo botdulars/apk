@@ -15,3 +15,5 @@ Every input from the bluetooth app button corresponds to a particular number and
 >> Input 6 : turn On the green LED ; 
 >> Input 7 : test the Servo with a small sweep ; 
 >> Input 8 : spin the 2 wheels forward and backwards for a couple of seconds; 
+
+The Car app however is very specific to directions for turning left, going forward, turning right and a reverse call. Each of them are invoked by an integer value from the App Inventor, viz., 1, 2, 3 and 4 for respective image clicks. 
